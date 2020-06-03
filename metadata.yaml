@@ -1,0 +1,38 @@
+_repo: Trouble-on-Tycho_62260
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Walker
+    gutenberg_agent_id: '46614'
+    url: http://www.gutenberg.org/2009/agents/46614
+creator:
+  author:
+    agent_name: Bond, Nelson S.
+    aliases:
+    - Bond, Nelson
+    - Bond, Nelson Slade
+    - Danzell, George
+    birthdate: 1908
+    deathdate: 2006
+    gutenberg_agent_id: '34095'
+    url: http://www.gutenberg.org/2009/agents/34095
+    wikipedia: https://en.wikipedia.org/wiki/Nelson_S._Bond
+description: ''
+gutenberg_issued: '2020-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62260'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Moon -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Musicians -- Fiction'
+- GITenberg
+title: Trouble on Tycho
+url: http://www.gutenberg.org/ebooks/62260
