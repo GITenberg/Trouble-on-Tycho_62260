@@ -5,6 +5,9 @@ contributor:
     agent_name: Walker
     gutenberg_agent_id: '46614'
     url: http://www.gutenberg.org/2009/agents/46614
+covers:
+- cover_type: archival
+  image_path: 62260-h/images/cover.jpg
 creator:
   author:
     agent_name: Bond, Nelson S.
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34095
     wikipedia: https://en.wikipedia.org/wiki/Nelson_S._Bond
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62260#Trouble-on-Tycho
 gutenberg_issued: '2020-05-28'
 gutenberg_type: Text
 identifiers:
